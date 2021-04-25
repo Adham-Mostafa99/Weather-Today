@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather Today</string>
+
+    <string-array name="cities">
+        <item name="Cairo">cairo</item>
+        <item name="Luxor">luxor</item>
+        <item name="Tanta">tanta</item>
+        <item name="Mansoura">mansoura</item>
+        <item name="Aswan">aswan</item>
+        <item name="Banha">banha</item>
+        <item name="Faiyum">faiyum</item>
+        <item name="Giza">giza</item>
+        <item name="Ismailia">ismailia</item>
+        <item name="Alexandria">alexandria</item>
+        <item name="Suez">suez</item>
+        <item name="Zagazig">zagazig</item>
+        <item name="Damanhur">damanhur</item>
+        <item name="Hurghada">hurghada</item>
+        <item name="Arish">arish</item>
+
+    </string-array>
+</resources>
