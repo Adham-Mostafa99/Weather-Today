@@ -1,4 +1,4 @@
-package com.terbo.weathertoday;
+package com.terbo.weathertoday.presentation.adapter;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
